@@ -1,3 +1,0 @@
-/home/nvidia/checkerboard-detection/build/CMakeFiles/rebuild_cache.dir
-/home/nvidia/checkerboard-detection/build/CMakeFiles/edit_cache.dir
-/home/nvidia/checkerboard-detection/build/CMakeFiles/checkerboard.dir
