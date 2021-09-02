@@ -1,4 +1,4 @@
-# checkerboard-detection
+# CUDA-checkerboard-detector
  
  This checkerboard detector was created to work on the jetson TX2 that utilises CUDA. To use, download a checkerboard with ample spacing on all 4 sides so that it does not break the detection. We utilise a corner detector and checkerboards that are flushed to the sides will not be detected. This issue will be addressed soon.
  
